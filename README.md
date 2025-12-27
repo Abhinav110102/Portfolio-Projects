@@ -1,2 +1,2 @@
 # Portfolio-Projects
-Some project I worked on during my spare time 
+Some project I worked on during my spare time.
